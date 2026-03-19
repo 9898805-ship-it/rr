@@ -7,9 +7,9 @@ set -e
 TG_TOKEN="7756669471:AAFstxnzCweHItNptwOf7UU-p6xj3pwnAI8"
 TG_CHAT_ID="1792396794"
 
-TROJAN_PORT=50333
-TROJAN_PASSWORD="C1DSA61F9WE8F48EWA4F4FDS4"
-SNI_DOMAIN="aws.amazon.com"
+TROJAN_PORT=52111
+TROJAN_PASSWORD="VFDVDF8888UY8Y8VFDLllllddadewe"
+SNI_DOMAIN="lupic.cdn.bcebos.com"
 DOH_URL="https://223.5.5.5/dns-query"
 
 # 锁定稳定版本，避免 latest 镜像更新导致配置格式变化
